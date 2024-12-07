@@ -9,6 +9,7 @@ This tutorial will cover what a Domain Name System (DNS) is and how to configure
 Check out the links below to start learning about Domain Name Systems!
 
 [What is DNS and how does it affect me?](DNSInformation.md)
+
 [How can I change my DNS?](DNSTutorial.md)
 
 
