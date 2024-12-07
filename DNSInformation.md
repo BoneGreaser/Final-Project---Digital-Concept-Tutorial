@@ -9,7 +9,7 @@ This means that every website has a unique IP adress associated with it. You can
 
 Now that you know a little about DNS, it's time to learn of DNS servers. DNS servers are where your internet connection go when you type in a new website name into the search bar. These servers resolve the human name into a computer name. Some of these DNS servers are better than others in speed, security, and avalibility. Sometimes you will fail to connect to websites because your DNS failed to find the IP, or most likley because the DNS server is down. Check out my quick tutorial below and learn how change your DNS server! 
 
-![]https://www.akamai.com/site/en/images/article/2023/how-dns-works.png
+![](https://www.akamai.com/site/en/images/article/2023/how-dns-works.png)
 
 [DNS Setup Guide](DNSTutorial.md)
 
